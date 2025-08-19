@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-telegram-bot==20.7
+aiohttp==3.9.1
+colorama==0.4.6
+pydantic==2.5.0
+aiofiles==23.2.1
+cryptography==42.0.8
+dotenv==0.9.9
+apscheduler==3.11.0
+requests==2.32.5
