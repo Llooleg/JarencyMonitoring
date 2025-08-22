@@ -199,6 +199,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
+google_credentials.json
+messages.db
+group_config.json
+test_webhook.py
+testing-2.py
+GoogleSheetsIntegration.py
 # Streamlit
 .streamlit/secrets.toml

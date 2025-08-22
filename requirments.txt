@@ -9,3 +9,5 @@ cryptography==42.0.8
 dotenv==0.9.9
 apscheduler==3.11.0
 requests==2.32.5
+gspread==6.1.2
+oauth2client
